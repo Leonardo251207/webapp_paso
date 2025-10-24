@@ -2,7 +2,7 @@ echo "# webapp_paso" >> README.md
 
 git init
 git add .
-git commit -m "first commit"
+git commit -m "Hola mundo esto esmi comentario de mi txt"
 git branch -M main
 git remote add origin https://github.com/Leonardo251207/webapp_paso.git
 git push -u origin main
